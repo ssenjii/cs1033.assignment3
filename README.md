@@ -4,7 +4,8 @@
 ## Description
 This project is part of my multimedia and communications class at Western University as a first-year in 2021.\
 It took me around 40 hours to make this start to finish, this process included finding images, making assets,\
-and coding everything. In the [images], [originals] and [videoanim] folders, you will find the original files for all the assets used in the making of this project. Click on the title of this README or click [here] to visit the page.
+and coding everything. In the [images], [originals] and [videoanim] folders, you will find the original files for all the\
+assets used in the making of this project. Click on the title of this README or click [here] to visit the page.
 
 
 [Major Assignment (Assignment 3)]: https://kaizng.github.io/cs1033.assignment3/
