@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# [Major Assignment (Assignment 3)]
+[![MIT License][license-img]][license] ![stopped] [![Made with HTML][html-img]][HTML]
 
-You can use the [editor on GitHub](https://github.com/KaizNG/idontplaysports.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
+This project is part of my multimedia and communications class at Western University as a first-year in 2021.\
+It took me around 40 hours to make this start to finish, this process included finding images, making assets,\
+and coding everything. In the [images], [originals] and [videoanim] folders, you will find the original files for all the assets used in the making of this project. Click on the title of this README or click [here] to visit the page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Major Assignment (Assignment 3)]: https://kaizng.github.io/cs1033.assignment3/
+[images]: https://github.com/KaizNG/cs1033.assignment3/tree/main/images
+[originals]: https://github.com/KaizNG/cs1033.assignment3/tree/main/originals
+[videoanim]: https://github.com/KaizNG/cs1033.assignment3/tree/main/videoanim
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[license-img]: https://img.shields.io/github/license/KaizNG/idontplaysports.github.io
+[license]: https://github.com/KaizNG/idontplaysports.github.io/blob/main/LICENSE
 
-```markdown
-Syntax highlighted code block
+[stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
+[hiatus]: https://img.shields.io/badge/Status-On%20Hiatus-orange.svg
+[updating]: https://img.shields.io/badge/status-Updating-009b31.svg
+[version-img]: https://badge.fury.io/gh/KaizNG%2FFoodFinder.svg
 
-# Header 1
-## Header 2
-### Header 3
+[changelog-img]: https://img.shields.io/badge/changelog-545454.svg
+[changelog]: ./CHANGELOG.md
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaizNG/idontplaysports.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[html-img]: https://img.shields.io/badge/made%20with-HTML-dd4b25.svg
+[html]: https://en.wikipedia.org/wiki/HTML5
+[here]: https://kaizng.github.io/cs1033.assignment3/
