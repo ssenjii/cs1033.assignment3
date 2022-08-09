@@ -13,8 +13,8 @@ assets used in the making of this project. Click on the title of this README or 
 [originals]: https://github.com/ssenjii/cs1033.assignment3/tree/main/originals
 [videoanim]: https://github.com/ssenjii/cs1033.assignment3/tree/main/videoanim
 
-[license-img]: https://img.shields.io/github/license/ssenjii/idontplaysports.github.io
-[license]: https://github.com/ssenjii/idontplaysports.github.io/blob/main/LICENSE
+[license-img]: https://img.shields.io/github/license/ssenjii/cs1033.assignment3
+[license]: https://github.com/ssenjii/cs1033.assignment3/blob/main/LICENSE
 
 [stopped]: https://img.shields.io/badge/status-Not%20Updating-red.svg
 [hiatus]: https://img.shields.io/badge/Status-On%20Hiatus-orange.svg
